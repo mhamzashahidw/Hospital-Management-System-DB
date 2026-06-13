@@ -89,5 +89,5 @@ To successfully initialize care syncing on a fresh instance of Microsoft SQL Ser
 
 ### Step 1: Clone Project Files
 ```bash
-git clone [https://github.com/YOUR_USERNAME/CareSync-HMS-Database.git](https://github.com/YOUR_USERNAME/CareSync-HMS-Database.git)
+git clone [https://github.com/mhamzashahidw/Hospital-Management-System-DB.git](https://github.com/mhamzashahidw/Hospital-Management-System-DB.git)
 cd CareSync-HMS-Database
