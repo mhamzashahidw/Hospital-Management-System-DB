@@ -60,13 +60,7 @@ The following schema represents the normalized schema mapping of the system, ill
     * *Foreign Key 1:* `Patient_Id` references `Patient(Patient_Id)`
     * *Foreign Key 2:* `Admission_Id` references `Admission(Admission_Id)`
 
----
 
-## 🗺️ 2. Entity-Relationship Diagram (ERD)
-
-The structural blueprint details table hierarchy mapping and entity mappings:
-
-![Hospital Management System ERD](ERD.jpg)
 
 ---
 
